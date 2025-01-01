@@ -1,0 +1,4 @@
+.vir_env
+__pycache__
+fake_news_model.pkl
+vectorization.pkl
